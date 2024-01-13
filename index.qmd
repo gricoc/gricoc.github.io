@@ -1,0 +1,21 @@
+---
+title: "About"
+about: 
+  template: solana
+  image: grc_web2.jpg
+editor: source
+---
+
+I am an associate professor at the [political science department](https://www.uab.cat/ca/ciencia-politica-dret-public) at the [Universitat Autònoma de Barcelona](https://www.uab.cat/). My research interests are in the fields of political behavior and public opinion. My work, mostly quantitative, has focused on aspects such as populist attitudes, emotions, political socialization, and political leadership. I am a member of the research group on [Democracy, Elections and Citizenship (DEC)](https://webs.uab.cat/grdec/).
+
+
+[{{< ai google-scholar size=2x title="Google Scholar" >}}](https://scholar.google.com/citations?user=JNkSpukAAAAJ&hl=en&oi=ao) &nbsp; &nbsp; [{{< ai orcid size=2x title="ORCID" >}}](https://orcid.org/0000-0001-6359-8909)
+
+---
+
+Departament de Ciència Política i Dret Públic  
+Universitat Autònoma de Barcelona  
+08193 Bellaterra (Spain)  
+
+☎️ +34 935812436  
+📧 guillem.rico@uab.cat

@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Guillem Rico"
+  navbar:
+    background: light
+    right:
+      - href: index.qmd
+        text: About
+      - research.qmd
+      - teaching.qmd
+  search: false
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: source
+
