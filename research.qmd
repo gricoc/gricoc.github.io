@@ -5,7 +5,7 @@ editor: source
 
 ## Journal Articles
 
-**Do they feel like they don’t matter? The rural-urban divide in external political efficacy** (with Rubén García del Horno and Enrique Hernández). *West European Politics*, 2023, forthcoming. [doi](https://doi.org/10.1080/01402382.2023.2261085)
+**Do they feel like they don’t matter? The rural-urban divide in external political efficacy** (with Rubén García del Horno and Enrique Hernández). *West European Politics*, 2023, forthcoming. [doi](https://doi.org/10.1080/01402382.2023.2261085) | [pdf](https://ddd.uab.cat/record/287343)
 
 **How much convergence exists between registered process measures and patient reported experience measures? A study on Catalan primary healthcare** (with Xavier Ballart). *International Journal of Health Planning and Management*, 2023, 38(6): 1772-1788. [doi](https://doi.org/10.1002/hpm.3701) | [pdf](https://ddd.uab.cat/record/283666)
 
@@ -25,7 +25,7 @@ editor: source
 
 **Economic Crisis and National Attitudes: Experimental Evidence from Spain** (with María José Hierro). _Ethnic and Racial Studies_, 2019, 42(5): 820-837. [doi](https://dx.doi.org/10.1080/01419870.2018.1432873) | [pdf](https://ddd.uab.cat/record/287311)
 
-**How Perceptions of Inequality Between Countries Diminish Trust in the European Union: Experimental and Observational Evidence** (with Marc Guinjoan). _Political Psychology_, 2018, 39(6): 1289-1303. [doi](https://dx.doi.org/10.1111/pops.12541) | [pdf]()
+**How Perceptions of Inequality Between Countries Diminish Trust in the European Union: Experimental and Observational Evidence** (with Marc Guinjoan). _Political Psychology_, 2018, 39(6): 1289-1303. [doi](https://dx.doi.org/10.1111/pops.12541) | [pdf](https://ddd.uab.cat/record/287682)
 
 **Public or Nonprofit? Career Preferences and Dimensions of Public Service Motivation** (with Xavier Ballart). _Public Administration_, 2018, 96(2): 404-420. [doi](https://dx.doi.org/10.1111/padm.12403) | [pdf](https://ddd.uab.cat/record/287344)
 
