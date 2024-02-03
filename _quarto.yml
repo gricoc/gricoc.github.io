@@ -12,6 +12,7 @@ website:
       - research.qmd
       - teaching.qmd
   search: false
+  favicon: gr_favicon-32x32.png
 
 format:
   html:
