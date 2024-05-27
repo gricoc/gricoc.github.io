@@ -5,41 +5,41 @@ editor: source
 
 ## Journal Articles
 
-**Ideological Identification, Type of Threat, and Differences in How Anger and Fear Relate to Anti-Immigrant and Populist Attitudes**. _American Behavioral Scientist_, 2024, forthcoming. [doi](https://doi.org/10.1177/00027642241240344)
+**Ideological Identification, Type of Threat, and Differences in How Anger and Fear Relate to Anti-Immigrant and Populist Attitudes**. _American Behavioral Scientist_, 2024, forthcoming. [doi](https://doi.org/10.1177/00027642241240344) | [pdf](https://ddd.uab.cat/pub/artpub/2024/3e29d543e55d/Rico_2024_Ideological_Identification_Type_of_Threat_and_Differences_in_How_Anger_and_Fear_Relate_to_Anti-Immigrant_and_Populist_Attitudes.pdf)
 
-**Do they feel like they don’t matter? The rural-urban divide in external political efficacy** (with Rubén García del Horno and Enrique Hernández). *West European Politics*, 2023, forthcoming. [doi](https://doi.org/10.1080/01402382.2023.2261085) | [pdf](https://ddd.uab.cat/record/287343)
+**Do they feel like they don’t matter? The rural-urban divide in external political efficacy** (with Rubén García del Horno and Enrique Hernández). *West European Politics*, 2023, forthcoming. [doi](https://doi.org/10.1080/01402382.2023.2261085) | [pdf](https://ddd.uab.cat/pub/artpub/2023/85457a117621/Garc_a_del_Horno_et_al_2023_Do_they_feel_like_they_don_t_matter-The_rural-urban_divide_in_external_political_efficacy.pdf)
 
-**Sexism and the Far-Right Vote: The Individual Dynamics of Gender Backlash** (with Eva Anduiza). *American Journal of Political Science*, 2024, 68(2): 478-493. [doi](https://doi.org/10.1111/ajps.12759) | [pdf](https://ddd.uab.cat/record/275413) | [data](https://doi.org/10.7910/DVN/A11CD5)
+**Sexism and the Far-Right Vote: The Individual Dynamics of Gender Backlash** (with Eva Anduiza). *American Journal of Political Science*, 2024, 68(2): 478-493. [doi](https://doi.org/10.1111/ajps.12759) | [pdf](https://ddd.uab.cat/pub/artpub/2022/321e4a0481f9/amejoupolsci_a2022m12d31iENG.pdf) | [data](https://doi.org/10.7910/DVN/A11CD5)
 
-**How much convergence exists between registered process measures and patient reported experience measures? A study on Catalan primary healthcare** (with Xavier Ballart). *International Journal of Health Planning and Management*, 2023, 38(6): 1772-1788. [doi](https://doi.org/10.1002/hpm.3701) | [pdf](https://ddd.uab.cat/record/283666)
+**How much convergence exists between registered process measures and patient reported experience measures? A study on Catalan primary healthcare** (with Xavier Ballart). *International Journal of Health Planning and Management*, 2023, 38(6): 1772-1788. [doi](https://doi.org/10.1002/hpm.3701) | [pdf](https://ddd.uab.cat/pub/artpub/2023/283666/283666.pdf)
 
-**An unjustified bad reputation? The Dark Triad and support for populism** (with Carol Galais). _Electoral Studies_, 2021, 72: 102357. [doi](https://doi.org/10.1016/j.electstud.2021.102357) | [pdf](https://ddd.uab.cat/record/249247)
+**An unjustified bad reputation? The Dark Triad and support for populism** (with Carol Galais). _Electoral Studies_, 2021, 72: 102357. [doi](https://doi.org/10.1016/j.electstud.2021.102357) | [pdf](https://ddd.uab.cat/pub/artpub/2021/249247/elestu_a2021v72n202357iENG.pdf)
 
-**Affective Polarization and the Salience of Elections** (with Enrique Hernández and Eva Anduiza). _Electoral Studies_, 2021, 69: 102203. [doi](https://doi.org/10.1016/j.electstud.2020.102203) | [pdf](https://ddd.uab.cat/record/238023)
+**Affective Polarization and the Salience of Elections** (with Enrique Hernández and Eva Anduiza). _Electoral Studies_, 2021, 69: 102203. [doi](https://doi.org/10.1016/j.electstud.2020.102203) | [pdf](https://ddd.uab.cat/pub/artpub/2021/238023/elestu_a2021v69n102203iENG.pdf)
 
-**Inferring Party Positions across Issue Dimensions** (with Robert Liñeira and Jordi Muñoz). _Party Politics_, 2021, 27(5): 1031-1043. [doi](https://doi.org/10.1177/1354068820912653) | [pdf](https://ddd.uab.cat/record/286802)
+**Inferring Party Positions across Issue Dimensions** (with Robert Liñeira and Jordi Muñoz). _Party Politics_, 2021, 27(5): 1031-1043. [doi](https://doi.org/10.1177/1354068820912653) | [pdf](https://ddd.uab.cat/pub/artpub/2021/286802/Lineira_et_al_2021_Inferring_Party_Positions_across_Issue_Dimensions.pdf)
 
-**Empowered and Enraged: Political Efficacy, Anger, and Support for Populism in Europe** (with Marc Guinjoan and Eva Anduiza). _European Journal of Political Research_, 2020, 59(4): 797-816. [doi](https://doi.org/10.1111/1475-6765.12374) | [pdf](https://ddd.uab.cat/record/259034)
+**Empowered and Enraged: Political Efficacy, Anger, and Support for Populism in Europe** (with Marc Guinjoan and Eva Anduiza). _European Journal of Political Research_, 2020, 59(4): 797-816. [doi](https://doi.org/10.1111/1475-6765.12374) | [pdf](https://ddd.uab.cat/pub/artpub/2020/259034/eurjoupol_a2020v59n4p797iENG_postprint.pdf) | [appendix](https://ddd.uab.cat/pub/artpub/2020/259034/eurjoupol_a2020v59n4p797iENG_postprint_annex.pdf)
 
-**Economic Correlates of Populist Attitudes: An Analysis of Nine European Countries in the Aftermath of the Great Recession** (with Eva Anduiza). _Acta Politica_, 2019, 54(3): 371-397. [doi](https://dx.doi.org/10.1057/s41269-017-0068-7) | [pdf](https://ddd.uab.cat/record/259039)
+**Economic Correlates of Populist Attitudes: An Analysis of Nine European Countries in the Aftermath of the Great Recession** (with Eva Anduiza). _Acta Politica_, 2019, 54(3): 371-397. [doi](https://dx.doi.org/10.1057/s41269-017-0068-7) | [pdf](https://ddd.uab.cat/pub/artpub/2017/259039/actpol_a2017v54p374iEN_postprint.pdf)
 
-**Populism, Participation, and Political Equality** (with Eva Anduiza and Marc Guinjoan). _European Political Science Review_, 2019, 11(1): 109-124. [doi](https://dx.doi.org/10.1017/S1755773918000243) | [pdf](https://ddd.uab.cat/record/258418)
+**Populism, Participation, and Political Equality** (with Eva Anduiza and Marc Guinjoan). _European Political Science Review_, 2019, 11(1): 109-124. [doi](https://dx.doi.org/10.1017/S1755773918000243) | [pdf](https://ddd.uab.cat/pub/artpub/2019/258418/eurpolsci_a2019v11n1p109iENG.pdf)
 
-**Economic Crisis and National Attitudes: Experimental Evidence from Spain** (with María José Hierro). _Ethnic and Racial Studies_, 2019, 42(5): 820-837. [doi](https://dx.doi.org/10.1080/01419870.2018.1432873) | [pdf](https://ddd.uab.cat/record/287311)
+**Economic Crisis and National Attitudes: Experimental Evidence from Spain** (with María José Hierro). _Ethnic and Racial Studies_, 2019, 42(5): 820-837. [doi](https://dx.doi.org/10.1080/01419870.2018.1432873) | [pdf](https://ddd.uab.cat/pub/artpub/2019/fb851f397cf8/Hierro_Rico_2019_Economic_Crisis_and_National_Attitudes-Experimental_Evidence_from_Spain.pdf)
 
-**How Perceptions of Inequality Between Countries Diminish Trust in the European Union: Experimental and Observational Evidence** (with Marc Guinjoan). _Political Psychology_, 2018, 39(6): 1289-1303. [doi](https://dx.doi.org/10.1111/pops.12541) | [pdf](https://ddd.uab.cat/record/287682)
+**How Perceptions of Inequality Between Countries Diminish Trust in the European Union: Experimental and Observational Evidence** (with Marc Guinjoan). _Political Psychology_, 2018, 39(6): 1289-1303. [doi](https://dx.doi.org/10.1111/pops.12541) | [pdf](https://ddd.uab.cat/pub/artpub/2018/287682/polpsy_a2018v39n6p1289iENG.pdf)
 
-**Public or Nonprofit? Career Preferences and Dimensions of Public Service Motivation** (with Xavier Ballart). _Public Administration_, 2018, 96(2): 404-420. [doi](https://dx.doi.org/10.1111/padm.12403) | [pdf](https://ddd.uab.cat/record/287344)
+**Public or Nonprofit? Career Preferences and Dimensions of Public Service Motivation** (with Xavier Ballart). _Public Administration_, 2018, 96(2): 404-420. [doi](https://dx.doi.org/10.1111/padm.12403) | [pdf](https://ddd.uab.cat/pub/artpub/2018/fb5a6a91a1a3/Ballart_Rico_2018_Public_or_Nonprofit-Career_Preferences_and_Dimensions_of_Public_Service_Motivation.pdf)
 
-**Pass the Buck If You Can: How Partisan Competition Triggers Attribution Bias in Multilevel Democracies** (with Robert Liñeira). _Political Behavior_, 2018, 40(1): 175-196. [doi](https://dx.doi.org/10.1007/s11109-017-9409-5) | [pdf](https://ddd.uab.cat/record/287333) | [data](https://doi.org/10.7910/DVN/XZJP2J)
+**Pass the Buck If You Can: How Partisan Competition Triggers Attribution Bias in Multilevel Democracies** (with Robert Liñeira). _Political Behavior_, 2018, 40(1): 175-196. [doi](https://dx.doi.org/10.1007/s11109-017-9409-5) | [pdf](https://ddd.uab.cat/pub/artpub/2018/3a1647b65a39/Rico_Li_eira_2018_Pass_the_buck_if_you_can-How_partisan_competition_triggers_attribution_bias_in_multilevel_democracies.pdf) | [data](https://doi.org/10.7910/DVN/XZJP2J)
 
-**The Emotional Underpinnings of Populism: How Anger and Fear Affect Populist Attitudes** (with Marc Guinjoan and Eva Anduiza). Swiss Political Science Review, 2017, 23(4): 444-461. [doi](https://dx.doi.org/10.1111/spsr.12261) | [pdf](https://ddd.uab.cat/record/259037)
+**The Emotional Underpinnings of Populism: How Anger and Fear Affect Populist Attitudes** (with Marc Guinjoan and Eva Anduiza). Swiss Political Science Review, 2017, 23(4): 444-461. [doi](https://dx.doi.org/10.1111/spsr.12261) | [pdf](https://ddd.uab.cat/pub/artpub/2017/259037/swipolsci_a2017v29n3p444iENG_postprint.pdf)
 
-**The Formation of Left-Right Identification: Pathways and Correlates of Parental Influence** (with M. Kent Jennings). _Political Psychology_, 2016, 37(2): 237-252. [doi](http://dx.doi.org/10.1111/pops.12243) | [pdf](https://ddd.uab.cat/record/287182)
+**The Formation of Left-Right Identification: Pathways and Correlates of Parental Influence** (with M. Kent Jennings). _Political Psychology_, 2016, 37(2): 237-252. [doi](http://dx.doi.org/10.1111/pops.12243) | [pdf](https://ddd.uab.cat/pub/artpub/2016/37ef35a1cfb0/Rico_Jennings_2016.pdf)
 
-**Bringing Secessionism into the Mainstream: The 2012 Regional Election in Catalonia** (with Robert Liñeira). _South European Society and Politics_, 2014, 19(2): 257-280. [doi](https://dx.doi.org/10.1080/13608746.2014.910324) | [pdf](https://ddd.uab.cat/record/287135)
+**Bringing Secessionism into the Mainstream: The 2012 Regional Election in Catalonia** (with Robert Liñeira). _South European Society and Politics_, 2014, 19(2): 257-280. [doi](https://dx.doi.org/10.1080/13608746.2014.910324) | [pdf](https://ddd.uab.cat/pub/artpub/2014/75fbda1b976b/Rico_Li_eira_2014_Bringing_Secessionism_into_the_Mainstream-The_2012_Regional_Election_in_Catalonia.pdf)
 
-**The Intergenerational Transmission of Contending Place Identities** (with M. Kent Jennings). _Political Psychology_, 2012, 33(5): 723-742. [doi](https://dx.doi.org/10.1111/j.1467-9221.2012.00894.x) | [pdf](https://ddd.uab.cat/record/287143)
+**The Intergenerational Transmission of Contending Place Identities** (with M. Kent Jennings). _Political Psychology_, 2012, 33(5): 723-742. [doi](https://dx.doi.org/10.1111/j.1467-9221.2012.00894.x) | [pdf](https://ddd.uab.cat/pub/artpub/2012/43d089a3c825/Rico_Jennings_2012.pdf)
 
 **Disproportionality and Voter Turnout in New and Old Democracies** (with Aina Gallego and Eva Anduiza). _Electoral Studies_, 2012, 31(1): 159-169. [doi](https://dx.doi.org/10.1016/j.electstud.2011.10.004)
 
