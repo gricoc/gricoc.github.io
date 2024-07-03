@@ -19,7 +19,9 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    include-in-header: <meta name="google-site-verification" content="M2gcz0Qi-sf6BbfxKDtSYl5ojIThhJ4SzzeVh0Ikpjk" />
+    include-in-header: 
+      - text: |
+          <meta name="google-site-verification" content="M2gcz0Qi-sf6BbfxKDtSYl5ojIThhJ4SzzeVh0Ikpjk" />
 
 editor: source
 
