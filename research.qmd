@@ -5,7 +5,7 @@ editor: source
 
 ## Journal Articles
 
-**The POLAT Panel: Spanish Political Attitudes Survey** (with Damjan Tomic, Carol Galais, Enrique Hernández, Dani Marinova, Roberto Pannico, Macarena Ares, María José Hierro, Jordi Muñoz, and Eva Anduiza). _Revista Española de Ciencia Política_, 2024, 65(July): 73-88. [doi](https://doi.org/10.21308/recp.65.03) | [pdf](https://recyt.fecyt.es/index.php/recp/article/view/102565/79138) | [data](https://doi.org/10.5565/ddd.uab.cat/243399)
+**The POLAT Panel: Spanish Political Attitudes Survey** (with Damjan Tomic, Carol Galais, Enrique Hernández, Dani Marinova, Roberto Pannico, Macarena Ares, María José Hierro, Jordi Muñoz, and Eva Anduiza). _Revista Española de Ciencia Política_, 2024, 65(July): 73-88. [doi](https://doi.org/10.21308/recp.65.03) | [pdf](https://ddd.uab.cat/pub/artpub/2024/94af637ecc8c/revespcie_a2024n65p73iENG.pdf) | [data](https://doi.org/10.5565/ddd.uab.cat/243399)
 
 **Ideological Identification, Type of Threat, and Differences in How Anger and Fear Relate to Anti-Immigrant and Populist Attitudes**. _American Behavioral Scientist_, 2024, forthcoming. [doi](https://doi.org/10.1177/00027642241240344) | [pdf](https://ddd.uab.cat/pub/artpub/2024/3e29d543e55d/Rico_2024_Ideological_Identification_Type_of_Threat_and_Differences_in_How_Anger_and_Fear_Relate_to_Anti-Immigrant_and_Populist_Attitudes.pdf)
 
