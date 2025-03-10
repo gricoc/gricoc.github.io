@@ -5,6 +5,8 @@ editor: source
 
 ## Journal Articles
 
+**Measuring Rural and Urban Consciousness in Europe** (with Christopher Claassen, Sascha Göbel, Antonia Lang, Kathrin Ackermann, Petar Bankov, Kevin Brookes, Bartolomeo Cappellina, Christopher Carman, Markus Freitag, Rubén García del Horno, Enrique Hernández, Sigrid Rossteutscher, Richard Traunmüller, Michael Webb, Sonja Zmerli, and Alina Zumbrunn). _Electoral Studies_, 2025, 95:102912. [doi](https://doi.org/10.1016/j.electstud.2025.102912) | [data](https://doi.org/10.5281/zenodo.14960451)
+
 **Not in the mood for party: Symptoms of depression reduce the weight of partisanship on vote choice** (with Luca Bernardi and Eva Anduiza). _Political Psychology_, 2024, forthcoming. [doi](https://doi.org/10.1111/pops.13064) | [pdf](https://ddd.uab.cat/pub/artpub/2024/36a866149964/polpsy_a2024a13064iENG.pdf)
 
 **The POLAT Panel: Spanish Political Attitudes Survey** (with Damjan Tomic, Carol Galais, Enrique Hernández, Dani Marinova, Roberto Pannico, Macarena Ares, María José Hierro, Jordi Muñoz, and Eva Anduiza). _Revista Española de Ciencia Política_, 2024, 65(July): 73-88. [doi](https://doi.org/10.21308/recp.65.03) | [pdf](https://ddd.uab.cat/pub/artpub/2024/94af637ecc8c/revespcie_a2024n65p73iENG.pdf) | [data](https://doi.org/10.5565/ddd.uab.cat/243399)
