@@ -3,6 +3,12 @@ title: "Teaching"
 editor: source
 ---
 
+- Introduction to Data Analysis (undergraduate). [Fall 2025](https://ddd.uab.cat/pub/procur/2025-26/g106737a2025-26iENG.pdf)
+
+- Socio-Political Marketing (MA). [Spring 2025](https://ddd.uab.cat/pub/procur/2024-25/g42228a2024-25iENG.pdf)
+
+- Introduction to Data Analysis (undergraduate). [Fall 2024](https://ddd.uab.cat/pub/procur/2024-25/g106737a2024-25iENG.pdf)
+
 - Socio-Political Marketing (MA). [Spring 2024](https://ddd.uab.cat/pub/procur/2023-24/g42228a2023-24iENG.pdf)
 
 - Introduction to Data Analysis (undergraduate). [Fall 2023](https://ddd.uab.cat/pub/procur/2023-24/g106737a2023-24iENG.pdf)
