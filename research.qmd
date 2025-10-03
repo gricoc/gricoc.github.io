@@ -5,9 +5,9 @@ editor: source
 
 ## Journal Articles
 
-**The Spanish Political Attitudes Panel (12 Waves)** (with Roberto Pannico, Carolina Galais, Enrique Hernández, and Eva Anduiza). _Scientific Data_, 2025, 12: 1565. [doi](https://doi.org/10.1038/s41597-025-05684-4) | [data](https://doi.org/10.34810/data1486)
+**The Spanish Political Attitudes Panel (12 Waves)** (with Roberto Pannico, Carolina Galais, Enrique Hernández, and Eva Anduiza). _Scientific Data_, 2025, 12: 1565. [doi](https://doi.org/10.1038/s41597-025-05684-4) | [pdf](https://ddd.uab.cat/pub/artpub/2025/e5137b35c76b/scidat_a2025n12a1565iENG.pdf) | [data](https://doi.org/10.34810/data1486)
 
-**Sexism and the Gender Gap in Support for the Radical Right** (with Eva Anduiza). _Journal of Women, Politics & Policy_, 2025, (forthcoming). [doi](https://doi.org/10.1080/1554477X.2025.2552577) | [data](https://www.dropbox.com/scl/fo/p97jiu6nkbd1hu2pv0d1w/ANjDGC99mD40PX_njHA2KaE?rlkey=6n867yc3vxxxbybr2x23szzla%26st=fmzr131q%26dl=0)
+**Sexism and the Gender Gap in Support for the Radical Right** (with Eva Anduiza). _Journal of Women, Politics & Policy_, 2025, (forthcoming). [doi](https://doi.org/10.1080/1554477X.2025.2552577) | [pdf](https://ddd.uab.cat/pub/artpub/2025/85bbb9648442/jouwompol_a2025m9d18iENG.pdf)  | [data](https://www.dropbox.com/scl/fo/p97jiu6nkbd1hu2pv0d1w/ANjDGC99mD40PX_njHA2KaE?rlkey=6n867yc3vxxxbybr2x23szzla%26st=fmzr131q%26dl=0)
 
 **Rural Representation in Europe: The Presence of Place in National Parliaments** (with Rubén García del Horno and Enrique Hernández). _Electoral Studies_, 2025, 96: 102962. [doi](https://doi.org/10.1016/j.electstud.2025.102962) | [pdf](https://ddd.uab.cat/pub/artpub/2025/318574/1-s2.0-S026137942500068X-main.pdf) | [data](https://doi.org/10.34810/data2417)
 
